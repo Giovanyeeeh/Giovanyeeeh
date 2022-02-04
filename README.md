@@ -1,4 +1,4 @@
-Oi, Meu nome é Giovany, Sou desenvolvedor de roms brasileiro para o Moto G7 Play
+Oi, Meu nome é Giovany, Sou desenvolvedor de roms para o Moto G7 Play
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
